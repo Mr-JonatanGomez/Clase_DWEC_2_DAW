@@ -32,7 +32,7 @@ console.log(fechaNacimiento.toLocaleString("es-ES")) //asi pasarle el horario lo
 
 //para ver sus tipos usar el typeof, se usa como el instanceof de Java
 
-/* MUY IMPORTANTE, si en un index.html metemos dos archivos de JS, index.js y second.js
+/* MUY IMPORTANTE, Si en un index.html metemos dos archivos de JS, index.js y second.js
 el que va despues, puede usar las variables del que se declara PromiseRejectionEvent, 
 y por consiguente no puede llevar variables con el mismo nombre
 
