@@ -39,5 +39,5 @@ y por consiguente no puede llevar variables con el mismo nombre
 Ejemplo : 
      index.js (let nombre = "Pepe")
      second.js (let nombre " Mariano")
-
+n
      Daria error, ya que hay dos variables en el documento index.html con el mismo nombre */
