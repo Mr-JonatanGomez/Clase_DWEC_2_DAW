@@ -2,7 +2,7 @@
 
 // 1º Cargar el modulo assert para poder hacer comprobaciones
 
-var assert = require("asesert")
+var assert = require("assert")
 
 //2º cargar modulo con las funciones a testerar ( al meter ../ te da a elegir desde donde)
 var operaciones = require("../operations")

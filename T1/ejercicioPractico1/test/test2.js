@@ -19,9 +19,9 @@ it("comprobar funcion resta", function () {
 
 it("comprobar funcion multiplicacion", function () {
   operaciones.multiplicacion.should.be.a.Function()
-  assert.equal(operaciones.multiplicacion(2, 3), 6)
-  assert.equal(operaciones.multiplicacion(9, -3), -27)
-  assert.equal(operaciones.multiplicacion(19, 3), 57)
+  should.equal(operaciones.multiplicacion(2, 3), 6)
+  should.equal(operaciones.multiplicacion(9, -3), -27)
+  should.equal(operaciones.multiplicacion(19, 3), 57)
 })
 
 

@@ -12,7 +12,7 @@ function division(a, b) {
 }
 /* Export functions, para que esten a disposicion del resto de funciones*/
 
-module.export = {
+module.exports = {
   suma,
   resta,
   multiplicacion,
