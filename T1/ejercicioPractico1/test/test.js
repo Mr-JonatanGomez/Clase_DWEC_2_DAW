@@ -22,4 +22,4 @@ it("comprobar funcion division", function () {
   assert.equal(operaciones.division(9, -3), -3)
 })
 
-/* TODO INSTALAR DEPS y NPM */
+/* Esto es la metodologia inversa, haciendo los test primeronpm*/
